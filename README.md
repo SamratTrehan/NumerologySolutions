@@ -1,5 +1,5 @@
 # Numerology Solutions
-An android app which uses basic meth to extract and calculate numbers from given user data.
+An android app which uses basic mathematical formulas to extract and calculate numbers from given user data.
 
 # Play Store
 
